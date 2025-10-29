@@ -1,0 +1,18 @@
+        #cihuy{
+            color:black;
+            align-content: center;
+        }
+        .kedua{
+            color: brown;
+            align-content: center;
+            
+        }
+        .content{
+            border: 1px solid black;
+            border-radius: 13px;
+            background-image:url(Screenshot_20250531_164242_TikTok.jpg);
+            background-repeat: no-repeat;
+            background-position: center;
+            text-align: center;
+            padding: 465px;
+        }
